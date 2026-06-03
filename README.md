@@ -122,7 +122,7 @@ else:
 
 Output:
 
-<img width="902" height="238" alt="WhatsApp Image 2026-06-01 at 9 43 50 AM" src="https://github.com/user-attachments/assets/84f29fcd-5773-47c3-80ec-15c2cc267675" />
+![image](https://github.com/user-attachments/assets/a2db7a2a-9ea9-46ff-a33d-3f3cac2b09eb)
 
 Result:
 
