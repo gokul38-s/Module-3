@@ -17,7 +17,7 @@ print(total)
 ```
 Output:
 
-<img width="335" height="164" alt="WhatsApp Image 2026-06-01 at 9 27 36 AM" src="https://github.com/user-attachments/assets/af4cb250-470c-4e4f-8b90-bb9d7d4ea2e0" />
+![Screenshot 2025-04-28 221913](https://github.com/user-attachments/assets/99ccf546-9301-41d3-8656-cb243f0e3785)
 
 Result:
 
