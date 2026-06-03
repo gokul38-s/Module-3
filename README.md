@@ -151,7 +151,7 @@ print( 8 in tuplex)
 
 Output:
 
-<img width="484" height="212" alt="image" src="https://github.com/user-attachments/assets/9e2cff63-c8a2-4193-9060-461c1f4eef13" />
+![image](https://github.com/user-attachments/assets/4343e5a0-3d81-4091-81b6-dfec31c6a2ca)
 
 
 Result:
